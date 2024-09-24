@@ -4,7 +4,7 @@ const featuredProducts = [
         name : "Garlic Oil",
         imgName : "product-img-1",
         shortDescription : "short-desc.",
-        description : "Garlic is one of the most popular spices in the world but when it comes to essential oil it is even more popular due to the wide range of medicinal, therapeutic, and aromatherapy benefits it provides. Garlic Essential Oil stimulates blood circulation and is known for its powerful antiseptic and antimicrobial properties. We provide premium grade Garlic essential oil that provides all-protection to your skin. Garlic oil is also known for its decongestant properties and provides relief from several skin conditions as well. Therefore, manufacturers of Skin care and Hair care products use best garlic essential oil as one of the important constituents of their products. Some people might not like the aroma of Garlic essential oil but it is this aroma that gives it many of its therapeutic properties. Therefore, you must always use natural Garlic essential oil instead of synthetic oils. We are offering organic Garlic essential oil that has a powerful odour and thin consistency. Due to its thin consistency, you can incorporate it into your skincare and cosmetic products easily."
+        description : "<p text-align:justify>Garlic is one of the most popular spices in the world but when it comes to essential oil it is even more popular due to the wide range of medicinal, therapeutic, and aromatherapy benefits it provides. Garlic Essential Oil stimulates blood circulation and is known for its powerful antiseptic and antimicrobial properties. We provide premium grade Garlic essential oil that provides all-protection to your skin. Garlic oil is also known for its decongestant properties and provides relief from several skin conditions as well. Therefore, manufacturers of Skin care and Hair care products use best garlic essential oil as one of the important constituents of their products.</p><p text-align:justify> Some people might not like the aroma of Garlic essential oil but it is this aroma that gives it many of its therapeutic properties. Therefore, you must always use natural Garlic essential oil instead of synthetic oils. We are offering organic Garlic essential oil that has a powerful odour and thin consistency. Due to its thin consistency, you can incorporate it into your skincare and cosmetic products easily.</p>"
     },
     {
         id : 2,
@@ -56,7 +56,7 @@ const MoreProducts = [
         name : "Himalayan Garlic Oil",
         imgName : "product-img-8",
         shortDescription : "short-desc.",
-        description : "some description"
+        description : "Himalayan Garlic Oil is extracted through a cold-pressing method using fresh Himalayan garlic cloves. This process helps retain the oil’s potent sulfur compounds, vitamins, and antioxidants. Known for its anti-inflammatory and antimicrobial properties, Himalayan Garlic Oil is often used for therapeutic and cosmetic purposes. It aids in improving skin texture, promoting hair health, and can also be used as a natural remedy for respiratory issues. We offer pure Himalayan Garlic Oil free from artificial additives and chemicals. It can be diluted with a carrier oil for safe topical application."
     },
     {
         id : 9,

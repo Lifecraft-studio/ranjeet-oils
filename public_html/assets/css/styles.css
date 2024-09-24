@@ -1507,6 +1507,7 @@ input[type='checkbox'] {
 	padding-top: 1rem;
 	padding-bottom: 0.375rem;
 	text-align: center;
+	height: 10vh;
 }
 
 .copyright .p-small {
